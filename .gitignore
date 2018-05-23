@@ -1,0 +1,101 @@
+	Weather Station/build/classes/.netbeans_automatic_build
+	Weather Station/build/classes/.netbeans_update_resources
+	Weather Station/build/classes/WeatherData$1.class
+	Weather Station/build/classes/weather/station/Day.class
+	Weather Station/build/classes/weather/station/Month.class
+	Weather Station/build/classes/weather/station/Year.class
+	Weather Station/build/classes/weather/station/jars/
+	Weather Station/build/classes/weather/station/wItem.class
+    Weather Station/build/classes/weather/station/MainDisplay$1.class
+    Weather Station/build/classes/weather/station/MainDisplay$10.class
+    Weather Station/build/classes/weather/station/MainDisplay$11.class
+    Weather Station/build/classes/weather/station/MainDisplay$12.class
+    Weather Station/build/classes/weather/station/MainDisplay$13.class
+    Weather Station/build/classes/weather/station/MainDisplay$14.class
+    Weather Station/build/classes/weather/station/MainDisplay$15.class
+    Weather Station/build/classes/weather/station/MainDisplay$16.class
+    Weather Station/build/classes/weather/station/MainDisplay$17.class
+    Weather Station/build/classes/weather/station/MainDisplay$2.class
+    Weather Station/build/classes/weather/station/MainDisplay$3.class
+    Weather Station/build/classes/weather/station/MainDisplay$4.class
+    Weather Station/build/classes/weather/station/MainDisplay$5.class
+    Weather Station/build/classes/weather/station/MainDisplay$6.class
+    Weather Station/build/classes/weather/station/MainDisplay$7.class
+    Weather Station/build/classes/weather/station/MainDisplay$8.class
+    Weather Station/build/classes/weather/station/MainDisplay$9.class
+    Weather Station/build/classes/weather/station/MainDisplay.class
+    Weather Station/build/classes/weather/station/WeatherStation.class
+/Weather Station/dist/
+New folder/parsing/2010-01.xml
+New folder/parsing/2010-02.xml
+New folder/parsing/Day.class
+New folder/parsing/Day.java
+New folder/parsing/Month.class
+New folder/parsing/Month.java
+New folder/parsing/WeatherData$1.class
+New folder/parsing/WeatherData.class
+New folder/parsing/WeatherData.java
+New folder/parsing/WeekStats.class
+New folder/parsing/WeekStats.java
+New folder/parsing/Year.class
+New folder/parsing/Year.java
+New folder/parsing/commons-io-2.4.jar
+New folder/parsing/hamcrest-core-1.3.jar
+New folder/parsing/jcommon-1.0.23.jar
+New folder/parsing/jdom.jar
+New folder/parsing/jfreechart-1.0.19-experimental.jar
+New folder/parsing/jfreechart-1.0.19-swt.jar
+New folder/parsing/jfreechart-1.0.19.jar
+New folder/parsing/jfreesvg-2.0.jar
+New folder/parsing/junit-4.11.jar
+New folder/parsing/orsoncharts-1.4-eval-nofx.jar
+New folder/parsing/orsonpdf-1.6-eval.jar
+New folder/parsing/run
+New folder/parsing/servlet.jar
+New folder/parsing/swtgraphics2d.jar
+New folder/parsing/tempJavaC.txt
+New folder/parsing/wItem.class
+New folder/parsing/wItem.java
+data/sub/2010-01.xml
+data/sub/2010-02.xml
+data/sub/2010-03.xml
+data/sub/2010-04.xml
+data/sub/2010-05.xml
+data/sub/2010-06.xml
+data/sub/2010-07.xml
+data/sub/2010-08.xml
+data/sub/2010-09.xml
+data/sub/2010-10.xml
+data/sub/2010-11.xml
+data/sub/2010-12.xml
+data/sub/2011-01.xml
+data/sub/2011-02.xml
+data/sub/2011-03.xml
+data/sub/2011-04.xml
+data/sub/2011-05.xml
+data/sub/2011-06.xml
+data/sub/2011-07.xml
+data/sub/2011-08.xml
+data/sub/2011-09.xml
+data/sub/2011-10.xml
+data/sub/2011-11.xml
+data/sub/2011-12.xml
+parsing/Day.class
+parsing/Month.class
+parsing/WeatherData$1.class
+parsing/WeatherData.class
+parsing/WeekStats.class
+parsing/Year.class
+parsing/hamcrest-core-1.3.jar
+parsing/jcommon-1.0.23.jar
+parsing/jfreechart-1.0.19-experimental.jar
+parsing/jfreechart-1.0.19-swt.jar
+parsing/jfreechart-1.0.19.jar
+parsing/jfreesvg-2.0.jar
+parsing/junit-4.11.jar
+parsing/orsoncharts-1.4-eval-nofx.jar
+parsing/orsonpdf-1.6-eval.jar
+parsing/servlet.jar
+parsing/swtgraphics2d.jar
+parsing/tempJavaC.txt
+parsing/wItem.class
